@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is PETER TERANTINO and I'm a programmer, from 
+<h2 align="left">Hi 👋! My name is Peter Terantino and I'm a programmer, from 
 Conservation Biology Institute</h2>
 
 ## 🌐 Socials:
